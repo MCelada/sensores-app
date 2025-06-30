@@ -1,0 +1,42 @@
+# Flutter/Dart/Pub related
+.dart_tool/
+.packages
+.pub/
+build/
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+
+# Android related
+.gradle/
+**/gradle-wrapper.jar
+**/gradle-wrapper.properties
+**/local.properties
+**/GeneratedPluginRegistrant.java
+
+# Xcode
+ios/Runner.xcworkspace/
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/ephemeral/
+
+# VS Code
+.vscode/
+
+# macOS related
+macos/Flutter/ephemeral/
+
+# Linux related
+linux/flutter/ephemeral/
+
+# Windows related
+windows/flutter/ephemeral/
+
+# Web related
+web/.dart_tool/
+
+# Others
+.idea/
+*.iml
+
+# Sensitive files (if any)
+.env
